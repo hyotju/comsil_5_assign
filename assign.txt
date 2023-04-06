@@ -1,1 +1,3 @@
 this is branch1
+changing contents
+Now I'm branch 3
